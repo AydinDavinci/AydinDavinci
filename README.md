@@ -27,6 +27,7 @@ visit my webpage here: https://aydindavinci.github.io./
 
 2025 © Aydin 👾
 
+<html>
 <header>
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </header>
@@ -34,4 +35,4 @@ visit my webpage here: https://aydindavinci.github.io./
 <body>
             <i class="devicon-blender-original"></i>
 </body>
-          
+</html>
