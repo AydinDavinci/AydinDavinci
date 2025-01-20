@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🇳🇱 ---------------------------------------------------------------------------------------
+🇳🇱 -----------------------------------------------------------------------------------------
 
 👨‍💻Mijn naam is Aydin Kirat, ik ben 19 jaar oud.
 Ik ben heel gepassioneerd met ICT en volg een Software Development opleiding.
@@ -9,7 +9,7 @@ Ik ben heel gepassioneerd met ICT en volg een Software Development opleiding.
 
 🪿Daarnaast beheers ik zowel de Nederlandse als Engelse taal goed.
 
-🇬🇧 ---------------------------------------------------------------------------------------
+🇬🇧 -----------------------------------------------------------------------------------------
 
 👨‍💻My name is Aydin Kirat, I'm 19 years old.
 I'm very passionate about IT, and I study Software Development.
