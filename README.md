@@ -31,6 +31,7 @@ visit my webpage here: https://aydindavinci.github.io./
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </header>
 
-
-<i class="devicon-blender-original"></i>
+<body>
+            <i class="devicon-blender-original"></i>
+</body>
           
