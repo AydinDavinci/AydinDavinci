@@ -28,5 +28,5 @@ visit my webpage here: https://aydindavinci.github.io./
 2025 © Aydin 👾
 
 <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
 </p>
