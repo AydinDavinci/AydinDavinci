@@ -25,7 +25,7 @@ I'm very passionate about IT, and I study Software Development.
 
 visit my webpage here: https://aydindavinci.github.io./
 
-<h2>Tools that I have worked with:</h2>
+<h2 style="color:'red';">Tools that I have worked with:</h2>
 <p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="vs2022" width="45" height="45"/>
