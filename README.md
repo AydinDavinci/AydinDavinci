@@ -2,7 +2,7 @@
 
 NL
 
-☛Mijn naam is Aydin Kirat, ik ben 19 jaar oud.
+☛Mijn naam is Aydin Kirat, ik ben 20 jaar oud.
 Ik ben heel gepassioneerd met ICT en volg een Software Development opleiding.
 
 ☛Ik ben creatief en ambitieus, dankzij mijn vorige werk ervaringen kan ik goed communiceren en zorgzaam werken.
@@ -14,7 +14,7 @@ Ik ben heel gepassioneerd met ICT en volg een Software Development opleiding.
 
 EN
 
-☛My name is Aydin Kirat, I'm 19 years old.
+☛My name is Aydin Kirat, I'm 20 years old.
 I'm very passionate about IT, and I study Software Development.
 
 ☛I'm creative and ambitious, thanks to my previous work experience I'm good at communicating and working caringly.
